@@ -1,0 +1,19 @@
+.waveSection {
+  position: relative;
+  background-color: #ffffff78;
+  margin-top: 15rem;
+  transform: translateY(3px);
+}
+
+.shapeBottom {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg); 
+}
+
+.shapeFill {
+  fill: #EBEFFF;
+}

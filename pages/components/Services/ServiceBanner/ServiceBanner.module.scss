@@ -1,0 +1,21 @@
+.serviceBanner {
+  background-image: url("/images/big-banner-bg.jpg");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 520px;
+
+  h2 {
+    font-size: 42px;
+    color: #565277;
+    font-weight: bold;
+  }
+}
+
+.left {
+  background-image: url("https://www.synergyetherapy.com/wp-content/uploads/2018/05/freestocks-org-126848-unsplash-scaled.jpg");
+  background-size: cover;
+}

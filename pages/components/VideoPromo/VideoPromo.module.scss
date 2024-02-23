@@ -1,0 +1,30 @@
+.video {
+  border: 5px solid #565277;
+  border-radius: 10px;
+}
+
+.videoPromo {
+  background-image: url("/images/bg-video.jpg");
+  margin-top: 10px;
+  padding-bottom: 5rem;
+  padding-top: 2rem;
+  background-size: cover;
+  h2 {
+    font-size: 36px;
+    line-height: 46.8px;
+    color: #565277;
+    font-weight: bold;
+  }
+  h5 {
+    font-size: 18px;
+    line-height: 29.7px;
+    color: #565277;
+    font-weight: bold;
+  }
+  p {
+    font-size: 20px;
+    line-height: 28px;
+    color: #000;
+    font-weight: 600;
+  }
+}

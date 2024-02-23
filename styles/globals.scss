@@ -1,0 +1,14 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+$primary: #00a4ef;
+
+:root {
+  --bs-primary: $primary;
+}
+
+.swiper-slide {
+  margin-top: auto;
+  margin-bottom: auto;
+}

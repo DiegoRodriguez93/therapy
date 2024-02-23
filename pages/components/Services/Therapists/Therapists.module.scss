@@ -1,0 +1,132 @@
+.title {
+  margin-top: 10rem;
+  text-align: center;
+  h2 {
+    color: #565277;
+    font-size: 30px;
+    padding-top: 5rem;
+    padding-bottom: 3.5rem;
+    font-weight: 700;
+  }
+  h3 {
+    font-size: 18px;
+    line-height: 29px;
+  }
+}
+
+.subtitle {
+  margin-top: 1rem;
+  padding-bottom: 3rem;
+  text-align: center;
+  h3 {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 29px;
+  }
+}
+
+.bg {
+  background-color: #ebefff;
+}
+
+.leftSideText {
+  padding-top: 1rem;
+  font-size: 22px;
+  text-align: center;
+  color: #000;
+  line-height: 1.7em;
+  font-weight: 600;
+  b {
+    font-weight: 600;
+    color: #00a4ef;
+  }
+}
+
+.button {
+  font-family: "Heebo", Sans-serif;
+  font-weight: 500;
+  color: #ffffff;
+  background-color: #00a4ef;
+  font-size: 22px;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: #ffffff;
+  border-radius: 15px 15px 15px 15px;
+  padding: 12px 30px 12px 30px;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.card {
+  background-color: #ffffff;
+  text-align: center;
+  border-radius: 10px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-bottom: 5rem;
+  max-width: 420px;
+}
+
+.cardTitle {
+  padding: 0px 0px 0px 0px;
+  color: #00a4ef;
+  font-family: "Montserrat", Sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.cardButton {
+  font-size: 22px;
+  fill: #edf1f3;
+  color: #edf1f3;
+  background-color: #47aae3;
+  border: none;
+  border-radius: 15px 15px 15px 15px;
+  margin-top: 30px;
+  padding: 5px 30px 5px 30px;
+}
+
+.hoverEffect {
+  cursor: pointer;
+  transition: all 0.5s ease;
+  &:hover {
+    transform: scale(1.15);
+  }
+}
+
+.therapistCard {
+  margin-bottom: 25px;
+  img {
+    float: right;
+  }
+  h2 {
+    font-size: 30px;
+    line-height: 39px;
+    font-weight: bold;
+  }
+  h3 {
+    font-size: 22px;
+    line-height: 29.7px;
+    font-weight: bold;
+  }
+  p {
+    font-size: 22px;
+    line-height: 29.7px;
+  }
+}
+
+.telemedicineSection {
+  text-align: center;
+  h2 {
+    font-weight: bold;
+    margin-top: 4rem;
+    font-size: 36px;
+    line-height: 47px;
+    color: #565277;
+  }
+  h3 {
+    margin-top: 2rem;
+    font-size: 30px;
+    line-height: 35px;
+  }
+}

@@ -1,0 +1,133 @@
+.input {
+  width: 100%;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: #bdbdbd;
+  height: 47px;
+  background-clip: padding-box;
+  background-image: none;
+  border: 1px solid #dadbdd;
+  border-radius: 7px;
+  color: #606266;
+  font-family: -apple-system, "system-ui", Segoe UI, Roboto, Oxygen-Sans, Ubuntu,
+    Cantarell, Helvetica Neue, sans-serif;
+  line-height: 1;
+  margin-bottom: 0;
+  max-width: 100%;
+  padding: 11px 15px;
+}
+
+.textArea {
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: #bdbdbd;
+  background-clip: padding-box;
+  background-image: none;
+  border: 1px solid #dadbdd;
+  border-radius: 7px;
+  color: #606266;
+  font-family: -apple-system, "system-ui", Segoe UI, Roboto, Oxygen-Sans, Ubuntu,
+    Cantarell, Helvetica Neue, sans-serif;
+  line-height: 1;
+  margin-bottom: 15px;
+  max-width: 100%;
+  width: 98.3%;
+  margin-left: 10px;
+  padding: 11px 15px;
+}
+
+.bgForm {
+  background-color: #f0f3f2;
+  padding: 5rem;
+  h2 {
+    color: #565277;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  input {
+    margin-bottom: 15px;
+  }
+  h5 {
+    font-size: 18px;
+  }
+  label {
+    font-size: 18px;
+    font-weight: 500;
+    margin-right: 15px;
+    margin-left: 5px;
+  }
+  button {
+    background-color: #1a7efb !important;
+    color: #ffffff !important;
+    border-radius: 10px 10px 10px 10px;
+    font-size: 21px;
+    font-weight: 700;
+    width: 100%;
+    border: 1px solid transparent;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 1.5;
+    padding: 8px 20px;
+    position: relative;
+    text-align: center;
+    user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+    margin-top: 35px;
+  }
+}
+
+.red {
+  color: red;
+}
+
+.followUs {
+  text-align: center;
+  padding: 3rem;
+  h2 {
+    font-size: 28px;
+    line-height: 42px;
+    color: #3c3950;
+    font-weight: bold;
+  }
+  p {
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: 1.92px;
+    fill: #565277;
+  }
+  input {
+    background-color: #F1F1F1;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 3px 3px 3px 3px;
+    color: #1f2124;
+    vertical-align: middle;
+    flex-grow: 1;
+    width: 100%;
+    max-width: 100%;
+    border: 1px solid grey;
+    padding: 0.75em;
+    height: auto;
+    box-shadow: none;
+    box-sizing: border-box;
+    transition: all .2s linear;
+  }
+  button {
+    background-color: #00A4EF;
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px 10px 10px 10px;
+    flex-basis: 100%;
+    min-height: 40px;
+    padding-top: 10px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    border-style: solid;
+    border-width: 0px 0px 0px 0px;
+    width: 100%;
+    margin-top: 10px;
+  }
+}
